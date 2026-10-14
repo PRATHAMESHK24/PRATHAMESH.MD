@@ -1,2 +1,2 @@
 # PRATHAMESH.MD
-<h1>Hello world</h1>
+<h1><center>Hello world</h1>
